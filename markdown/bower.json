@@ -1,0 +1,22 @@
+{
+  "name": "markdown",
+  "description": "A simple html preview app",
+  "main": "index.html",
+  "authors": [
+    "Nguyen Duy Tiep"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/green-leaves/learn-grunt",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-sanitize": "~1.4.7",
+    "angular": "~1.4.7"
+  }
+}
